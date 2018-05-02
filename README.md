@@ -5,6 +5,18 @@ Take a baseline installation for linux server and run your application on it in 
   - ssh port : 2200
   - Application URL: http://ec2-34-242-31-34.eu-west-1.compute.amazonaws.com
 
+# Required Installed Softwares
+  - Apache2
+  - mod_wsgi
+  - postgresql
+  - Flask
+  - httplib2
+  - oauth2client
+  - sqlalchemy
+  - psycopg2
+  - sqlalchemy_utils
+  
+
 # Steps :
 
   - login with ssh
